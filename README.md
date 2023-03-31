@@ -29,7 +29,7 @@ For information read it here: [Fleet Documentation](https://fleet.rancher.io/)
 - In this guide we're using K3s Kubernetes cluster.
 For this we will use the dockerize way to install [K3s](https://docs.k3s.io/) Kuberenets is install [K3d](https://k3d.io/v5.4.9/#installation).
 
-To install ***k3d*** follow this [guide](<link>).
+To install ***k3d*** follow this [guide](https://github.com/sbulage/k3d-install/blob/main/README.md).
 
 ---
 
